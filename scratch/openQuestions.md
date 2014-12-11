@@ -1,7 +1,9 @@
-##Open Questions##
+##Open Questions
 
-###Die Syntax###
-1. Sollen Nutzer die Möglichkeiten haben die Syntax zu erweitern? {en: Should Users have the ability to extend the syntax?}
-  Szenario: Wir wollen irgendwelche Variablen darstellen
-  `code`
+###Syntax
+Q1. Should users be given the ability to customize/extend the syntax? 
+* This could be useful
+
+##Possible Solutions
+A1. Die Syntax zu erweitern wäre 
  
